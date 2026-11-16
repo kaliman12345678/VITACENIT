@@ -1,4 +1,4 @@
-# Vitalcenit · Bienestar, Crecimiento y Sostenibilidad
+﻿# Vitalcenit · Bienestar, Crecimiento y Sostenibilidad
 
 Sitio web oficial de **Vitalcenit** (`www.vitalcenit.online`), una iniciativa de bienestar integral, superación personal y sostenibilidad ambiental desarrollada por la **COOPERATIVA DE CAFICULTORES DE SANTANDER LTDA**, constituida legalmente como **Entidad Sin Ánimo de Lucro (ESAL)**.
 
@@ -14,7 +14,7 @@ Sitio web oficial de **Vitalcenit** (`www.vitalcenit.online`), una iniciativa de
 * **NIT:** 890201988-3
 * **Cámara de Comercio:** Cámara de Comercio de Bucaramanga
 * **Matrícula / Registro Mercantil:** 05-500460-21
-* **Sede Principal:** Carrera 12 No. 9 - 44, San Gil, Santander, Colombia
+* **Sede Principal:** Carrera 12 No. 9 - 44, San Gil, Santander, Colombia (C.P. 684031)
 * **Teléfono Oficial & WhatsApp:** +57 300 381 9292 (3003819292)
 * **Correo Institucional:** talentohumano@vitalcenit.online
 * **Sitio Web Oficial:** https://www.vitalcenit.online
@@ -41,3 +41,5 @@ Sitio web oficial de **Vitalcenit** (`www.vitalcenit.online`), una iniciativa de
 
 ## ⚖️ Marco Legal y Transparencia
 El portal cumple con todos los lineamientos de transparencia corporativa, personería jurídica ante Cámara de Comercio, protección de datos y contacto directo con la comunidad.
+
+
