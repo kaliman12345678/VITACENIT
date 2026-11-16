@@ -1296,3 +1296,81 @@ textarea.form-control {
         margin: 1.5rem 1rem;
     }
 }
+
+/* MARCO LEGAL CARDS SECTION */
+.legal-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.legal-card {
+    background: var(--card-bg);
+    border-radius: var(--radius-lg);
+    padding: 2.25rem 2rem;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--border-light);
+    display: flex;
+    flex-direction: column;
+    transition: var(--transition);
+}
+
+.legal-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--forest-600);
+}
+
+.legal-card-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: var(--radius-md);
+    background: var(--sage-50);
+    border: 1px solid var(--sage-200);
+    color: var(--forest-800);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin-bottom: 1.25rem;
+    transition: var(--transition);
+}
+
+.legal-card:hover .legal-card-icon {
+    background: var(--forest-800);
+    color: var(--gold-500);
+}
+
+.legal-card h4 {
+    font-family: var(--font-heading);
+    font-size: 1.3rem;
+    color: var(--forest-900);
+    margin-bottom: 0.75rem;
+}
+
+.legal-card p {
+    font-size: 0.92rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    flex-grow: 1;
+}
+
+.legal-card-meta {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 1.25rem;
+    padding-top: 0.75rem;
+    border-top: 1px dashed var(--sand-200);
+}
+
+.legal-card-btn {
+    width: 100%;
+}
+
+@media (max-width: 992px) {
+    .legal-cards-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
